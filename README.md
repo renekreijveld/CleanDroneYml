@@ -6,10 +6,11 @@ This file has no function on a Joomla 3.6.3+ website and can be safely deleted.
 
 This plugin does just that.
 
-On install, it removes the file .drone.yml from the root of your Joomla website and then thsi plugin uninstalls itself.
+After install, it removes the file .drone.yml from the root of your Joomla website and then the plugin uninstalls itself.
 
 ##Installation instructions
 
 Install the plugin with the Joomla extension installer. Use the Install from URL option.
+
 Then use this URL: https://github.com/renekreijveld/CleanDroneYml/raw/master/plgCleanDroneYml.zip
 
