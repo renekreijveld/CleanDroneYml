@@ -6,7 +6,7 @@
 	<copyright>(C) 2016 DSD Business Internet</copyright>
 	<authorUrl>http://dsd.nu</authorUrl>
 	<version>1.0</version>
-	<description>This plugin does nothing except on install, it removes the file .drone.yml from the root of your website. After a successful install, this plugin can be immediately uninstalled.</description>
+	<description>This plugin removes the file .drone.yml from the root of your website. After removal this plugin uninstall itself.</description>
 	<files>
 		<filename plugin="cleandroneyml">cleandroneyml.php</filename>
 	</files>
