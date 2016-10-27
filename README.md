@@ -11,5 +11,5 @@ On install, it removes the file .drone.yml from the root of your Joomla website 
 ##Installation instructions
 
 Install the plugin with the Joomla extension installer. Use the Install from URL option.
-Then use this URL: https://github.com/renekreijveld/CleanDroneYml/blob/master/plgCleanDroneYml.zip
+Then use this URL: https://github.com/renekreijveld/CleanDroneYml/raw/master/plgCleanDroneYml.zip
 
