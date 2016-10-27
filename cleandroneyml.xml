@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="system" method="upgrade">
+	<name>CleanDroneYml</name>
+	<author>René Kreijveld</author>
+	<creationDate>2016-10-27</creationDate>
+	<copyright>(C) 2016 DSD Business Internet</copyright>
+	<authorUrl>http://dsd.nu</authorUrl>
+	<version>1.0</version>
+	<description>This plugin does nothing except on install, it removes the file .drone.yml from the root of your website. After a successful install, this plugin can be immediately uninstalled.</description>
+	<files>
+		<filename plugin="cleandroneyml">cleandroneyml.php</filename>
+	</files>
+	<scriptfile>cleandroneyml.install.php</scriptfile>
+</extension>
